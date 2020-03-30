@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.canvas-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+}
+
+.loading {
+  font-size: 1.3rem;
+}
