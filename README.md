@@ -1,11 +1,13 @@
-# ТЕСТОВОЕ ЗАДАНИЕ
+### ТЕСТОВОЕ ЗАДАНИЕ
 
 # HOW TO USE
 
-- 1. Clone this repository
-- 2. Run `npm install` to install dependencies
-- 3. Run `npm start` to start dev server and watch html result
-- 4. Run `npm test` to run tests
+- Clone this repository
+- Run `npm install` to install dependencies
+- Run `npm start` to start dev server and watch html result
+- Run `npm test` to run tests
+
+---
 
 ### Условия:
 
